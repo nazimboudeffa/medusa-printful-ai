@@ -1,1 +1,1 @@
-# medusa-printful-ai
+# Medusa Printful AI
